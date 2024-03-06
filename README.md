@@ -87,13 +87,6 @@ I'm Eric, a computer scientist specialized in data science and machine learning,
 </p>
 
 
-
-## GitHub Stats 📊
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericmg97&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmg97&layout=compact&theme=dark)](https://github.com/ericmg97)
-
 ## Let's Connect! 🤝
 
 Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/ericmg97) or [Email](mailto:ermargar97@gmail.com). Open to collaboration and new opportunities! 📩
